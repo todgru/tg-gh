@@ -1,6 +1,6 @@
 {
   "name": "tg-gh",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "'github helpers'",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
     "url": "https://github.com/todgru/tg-gh/issues"
   },
   "homepage": "https://github.com/todgru/tg-gh#readme.md",
+  "keywords": ["github","pull","request","merge","master"],
   "dependencies": {
     "got": "9.3.2"
   }
