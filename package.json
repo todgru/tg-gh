@@ -1,0 +1,22 @@
+{
+  "name": "tg-gh",
+  "version": "1.0.0",
+  "description": "'github helpers'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todgru/tg-gh.git"
+  },
+  "author": "todgru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/todgru/tg-gh/issues"
+  },
+  "homepage": "https://github.com/todgru/tg-gh#readme.md",
+  "dependencies": {
+    "got": "9.3.2"
+  }
+}
