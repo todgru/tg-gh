@@ -4,6 +4,8 @@ todgru's Github Helpers
 
 ## Usage
 
+Github methods for returning pull requests and merging master into pull request feature branch.
+
 A [Github personal access token](https://github.com/settings/tokens/), `GITHUB_TOKEN`, can be set in the environment or `token` can be passed in as one of the options. This token needs `repo` access.
 
 ```javascript
