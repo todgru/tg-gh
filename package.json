@@ -16,8 +16,17 @@
     "url": "https://github.com/todgru/tg-gh/issues"
   },
   "homepage": "https://github.com/todgru/tg-gh#readme.md",
-  "keywords": ["github","pull","request","merge","master"],
   "dependencies": {
     "got": "9.3.2"
-  }
+  },
+  "keywords": [
+    "github",
+    "pull",
+    "request",
+    "cli",
+    "command",
+    "line",
+    "merge",
+    "master"
+  ]
 }
