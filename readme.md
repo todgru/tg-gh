@@ -4,9 +4,11 @@ todgru's Github Helpers
 
 ## Usage
 
-Github methods for returning pull requests and merging master into pull request feature branch.
+Github methods for:
+- returning an array of pull requests
+- merging `some-branch` into `some-other-branch`
 
-A [Github personal access token](https://github.com/settings/tokens/), `GITHUB_TOKEN`, can be set in the environment or `token` can be passed in as one of the options. This token needs `repo` access.
+Requires a [Github personal access token](https://github.com/settings/tokens/). This token needs `repo` access. An environment variable `GITHUB_TOKEN` can be set or the token can be passed in as an argument to the module.
 
 ```javascript
 const gh = require("tg-gh")({repo: "my-awesome-repo", name: "todgru", token: "my-token"});
