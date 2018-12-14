@@ -1,6 +1,6 @@
 {
-  "name": "tg-gh",
-  "version": "0.0.1",
+  "name": "tg-gh-lib",
+  "version": "0.0.2",
   "description": "'github helpers'",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/todgru/tg-gh.git"
+    "url": "git+https://github.com/todgru/tg-gh-lib.git"
   },
   "author": "todgru",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/todgru/tg-gh/issues"
+    "url": "https://github.com/todgru/tg-gh-lib/issues"
   },
-  "homepage": "https://github.com/todgru/tg-gh#readme.md",
+  "homepage": "https://github.com/todgru/tg-gh-lib#readme.md",
   "dependencies": {
     "got": "9.3.2"
   },

@@ -1,4 +1,4 @@
-# tg-gh
+# tg-gh-lib
 
 todgru's Github Helpers
 
@@ -11,7 +11,7 @@ Github methods for:
 Requires a [Github personal access token](https://github.com/settings/tokens/). This token needs `repo` access. An environment variable `GITHUB_TOKEN` can be set or the token can be passed in as an argument to the module.
 
 ```javascript
-const gh = require("tg-gh")({repo: "my-awesome-repo", name: "todgru", token: "my-token"});
+const gh = require("tg-gh-lib")({repo: "my-awesome-repo", name: "todgru", token: "my-token"});
 
 (async () => {
   // merge master into feature branch
