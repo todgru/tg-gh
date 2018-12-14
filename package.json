@@ -19,6 +19,12 @@
   "dependencies": {
     "got": "9.3.2"
   },
+  "devDependencies": {
+    "eslint-config-tg": "git+ssh://git@github.com/todgru/eslint-config-tg.git"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-tg"
+  },
   "keywords": [
     "github",
     "pull",
